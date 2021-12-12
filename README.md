@@ -11,7 +11,7 @@ Building solutions that add value to everyday life | Hard Worker | [Rakuten](htt
 - Find my [resume here](https://drive.google.com/drive/folders/1vTU6jEXQM7kwJ92aBb_BwUPnyGMhJ79e?usp=sharing)
 - Say hi at [rushikeshtaksande7@gmail.com](mailto:rushikeshtaksande7@gmail.com) or [imt_2017074@iiitm.ac.in](mailto:imt_2017074@iiitm.ac.in)
 
-#### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools:
+#### 🛠️Languages and Tools:
 
   <br/>
   <p align="left">
