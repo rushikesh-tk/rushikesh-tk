@@ -1,4 +1,4 @@
-### Hey 👋, I'm Rushikesh
+### Hey 👋, I'm [Rushikesh](https://rushikesh-tk.vercel.app/)
 
 A student by experience and an engineer by heart 💓
 
