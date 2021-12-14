@@ -9,7 +9,6 @@ Building solutions that add value to everyday life | Hard Worker | [Rakuten](htt
 - Pursuing Integrated Post Graduation (BTech.+MTech.) in Information Technology (2017-2022) from IIIT Gwalior 
 - Full stack web developer
 - Find my [resume here](https://drive.google.com/drive/folders/1vTU6jEXQM7kwJ92aBb_BwUPnyGMhJ79e?usp=sharing)
-- Say hi at [rushikeshtaksande7@gmail.com](mailto:rushikeshtaksande7@gmail.com) or [imt_2017074@iiitm.ac.in](mailto:imt_2017074@iiitm.ac.in)
 
 #### 🛠️Languages and Tools:
 
@@ -34,10 +33,16 @@ Building solutions that add value to everyday life | Hard Worker | [Rakuten](htt
 
 #### Get in touch:
 <p align="left">
+ 
+
+- Portfolio Website : [rushikesh-tk.vercel.app](https://rushikesh-tk.vercel.app/)
+- Say hi at [rushikeshtaksande7@gmail.com](mailto:rushikeshtaksande7@gmail.com) or [imt_2017074@iiitm.ac.in](mailto:imt_2017074@iiitm.ac.in)
 
 <a href="https://www.linkedin.com/in/rushikesh-tk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh_tk" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rushikesh_tk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushikesh_tk" height="30" width="40" /></a>
 <a href="https://twitter.com/rushikesh_tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushikesh_tk" height="30" width="40" /></a>
+
+
 
   Unlike some companies, I respond ASAP 🧐
 
