@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Rushikesh](https://rushikesh-tk.vercel.app/)
+### Hey 👋, I'm [Rushikesh](https://rushikesh-tk.me)
 
 A student by experience and an engineer by heart 💓
 
@@ -35,7 +35,7 @@ Building solutions that add value to everyday life | Hard Worker | [Samsung SDS]
 <p align="left">
  
 
-- Portfolio Website : [rushikesh-tk.vercel.app](https://rushikesh-tk.vercel.app/)
+- Portfolio Website : [rushikesh-tk.me](https://rushikesh-tk.me/)
 - Say hi at [rushikeshtaksande7@gmail.com](mailto:rushikeshtaksande7@gmail.com) or [imt_2017074@iiitm.ac.in](mailto:imt_2017074@iiitm.ac.in)
 
 <a href="https://www.linkedin.com/in/rushikesh-tk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh_tk" height="30" width="40" /></a>
