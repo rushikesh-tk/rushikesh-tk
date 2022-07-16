@@ -8,7 +8,7 @@ Building solutions that add value to everyday life | Hard Worker | [Samsung SDS]
 - Open to technology shaping opportunities!
 - Pursuing Integrated Post Graduation (BTech.+MTech.) in Information Technology (2017-2022) from IIIT Gwalior 
 - Full stack web developer
-- Find my [resume here](https://drive.google.com/drive/folders/1vTU6jEXQM7kwJ92aBb_BwUPnyGMhJ79e?usp=sharing)
+- Reader 📚
 
 #### 🛠️Languages and Tools:
 
