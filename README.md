@@ -1,13 +1,13 @@
 ### Hey 👋, I'm [Rushikesh](https://rushikesh-tk.me)
 
-A student by experience and an engineer by heart 💓
+A software developer by heart 💓
 
-Building solutions that add value to everyday life | Hard Worker | [Samsung SDS](https://www.samsungsds.com/en/index.html) Intern'22 | Ex-[Rakuten](https://corp.rakuten.co.in/) Intern'21
+Building solutions that add value to everyday life | Hard Worker | SDE @[Yug Network](https://yug.network/) | Ex-[Samsung SDS](https://www.samsungsds.com/en/index.html) Intern'22 | Ex-[Rakuten](https://corp.rakuten.co.in/) Intern'21
 
 #### Summary:
 - Open to technology shaping opportunities!
-- Pursuing Integrated Post Graduation (BTech.+MTech.) in Information Technology (2017-2022) from IIIT Gwalior 
-- Full stack web developer
+- Pursued Integrated Post Graduation (BTech.+MTech.) in Information Technology (2017-2022) from IIIT Gwalior 
+- Full stack web and app developer (ios and android)
 - Reader 📚
 
 #### 🛠️Languages and Tools:
@@ -15,6 +15,7 @@ Building solutions that add value to everyday life | Hard Worker | [Samsung SDS]
   <br/>
   <p align="left">
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
   <a href="https://redux.js.org/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
