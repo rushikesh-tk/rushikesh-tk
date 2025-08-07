@@ -2,7 +2,7 @@
 
 A software developer by heart 💓
 
-Building solutions that add value to everyday life | Hard Worker | SDE @[Rakuten](https://corp.rakuten.co.in/) | Ex-SDE @[Zoyride Inc](https://zoyride.com/) | Ex-[Samsung SDS](https://www.samsungsds.com/en/index.html) Intern'22 | Ex-[Rakuten](https://corp.rakuten.co.in/) Intern'21
+Building solutions that add value to everyday life | Hard Worker | SDE @BungeeTech | Ex-SDE @[Rakuten](https://corp.rakuten.co.in/) | Ex-SDE @[Zoyride Inc](https://zoyride.com/) | Ex-[Samsung SDS](https://www.samsungsds.com/en/index.html) Intern'22 | Ex-[Rakuten](https://corp.rakuten.co.in/) Intern'21
 
 #### Summary:
 - Open to technology shaping opportunities!
